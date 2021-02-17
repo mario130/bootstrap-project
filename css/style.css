@@ -73,7 +73,7 @@ body{
 
 /* start header */
 .header{
-    background: url(/images/architecture_bay3.jpg) no-repeat;
+    background: url(../images/architecture_bay3.jpg) no-repeat;
     background-size: cover;
     position: relative;
     height: calc(100vh - 67px);
@@ -526,7 +526,7 @@ button.left-one{
 
 /* start stylish */
 .stylish{
-    background: url(/images/city.jpg) no-repeat top center;
+    background: url(../images/city.jpg) no-repeat top center;
     background-attachment: fixed;
     background-size: cover;
     position: relative;
